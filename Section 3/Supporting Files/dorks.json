@@ -1,0 +1,48 @@
+{
+  "Likely Accepting User Input": [
+    {
+      "description": "PHP",
+      "dork": "ext:php"
+    },
+    {
+      "description": "ASP",
+      "dork": "ext:asp OR ext:aspx"
+    },
+    {
+      "description": "CGI",
+      "dork": "ext:cgi"
+    },
+    {
+      "description": "JSP",
+      "dork": "ext:jsp"
+    }
+  ],
+  "Login Portal": [
+    {
+      "description": "Generic Login Page",
+      "dork": "inurl:login OR inurl:admin OR intitle:Login OR intitle:Admin"
+    },
+    {
+      "description": "WordPress Login Page",
+      "dork": "inurl:wp-login.php"
+    }
+  ],
+  "Sensitive Files": [
+    {
+      "description": "Generic Log File",
+      "dork": "ext:log"
+    },
+    {
+      "description": "Database Dump File",
+      "dork": "ext:db OR ext:sql"
+    },
+    {
+      "description": "Password File",
+      "dork": "inurl:passwd OR inurl:password OR inurl:credential"
+    },
+    {
+      "description": "SSH Key",
+      "dork": "inurl:id_rsa"
+    }
+  ]
+}

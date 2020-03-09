@@ -1,0 +1,5 @@
+index
+Index
+index.htm
+index.html
+index.php
