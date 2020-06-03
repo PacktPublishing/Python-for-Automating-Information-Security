@@ -2,7 +2,7 @@
 Learn how to use Python to automate information security	
 
 ##
-This is the code repository for [Python for Automating Information Security[Video]](https://www.packtpub.com/?utm_source=github), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Python for Automating Information Security[Video]](https://www.packtpub.com/security/python-for-automating-information-security-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
 ## About the Video Course
 The process of finding and eradicating an attacker is time-consuming and costs a lot, which hurts your organization. You need to write tools that will help you automate your defensive and offensive security. As a penetration tester, you need to evolve quickly. When off-the-shelf tools and exploits fall short, writing your own tool will help you safeguard your data.
@@ -32,10 +32,12 @@ ou are a security professional, a networking enthusiast, or just plain curious i
 ### Technical Requirements
 This course has the following requirements:<br/>
 Beginner to intermediate-level Python proficiency recommended<br/>
-Oracle VirtualBox <br/>
-Kali Linux<br/>
-Metasploitable 2 <br/>
-PyCharm IDE in your Kali system<br/>
+Test System: Metasploitable 2 on Virtualbox (https://sourceforge.net/projects/metasploitable/files/Metasploitable2/metasploitable-linux-2.0.0.zip/download) -- required<br/>
+Browser: Firefox ESR (built into Kali) -- required<br/>
+VirtualBox, Latest Version (https://www.virtualbox.org/wiki/Downloads) -- required<br/>
+PyCharm IDE, Latest Version (https://www.jetbrains.com/pycharm/download/) -- recommended<br/>
+Python 3.6 or greater (built into Kali) -- required<br/>
+
 
 
 
